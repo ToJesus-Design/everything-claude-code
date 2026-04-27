@@ -1,0 +1,4 @@
+node_modules/
+pastofo-site/
+.claude/
+*.txt
